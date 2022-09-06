@@ -1,11 +1,18 @@
 {
   "dependencies": {
     "com.system-community.systemcollectionsimmutable": {
-      "version": "https://github.com/system-community/SystemCollectionsImmutable.git?path=Assets/_Root#5.0.0",
+      "version": "https://github.com/system-community/SystemCollectionsImmutable.git?path=Assets/_Root#6.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "29105c8d28a72fb500812c6e3de86e75bca5b93d"
+      "hash": "854c9e98fcfe2625f052c78d29964af88e2dfb6e"
+    },
+    "com.system-community.systemruntimecompilerservicesunsafe": {
+      "version": "https://github.com/system-community/SystemRuntimeCompilerServicesUnsafe.git?path=Assets/_Root#6.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "85fa84e534a422b09e7f1f334735e73215cb17f5"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.1",
